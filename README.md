@@ -28,12 +28,13 @@
 ### 📫 Connect with me:
 
 <p align="left">
+<a href="https://www.facebook.com/profile.php?id=100046527361601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kajal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kajal-pramanik-234a93173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prantosh" height="30" width="40" /></a>
 </p>
 
 - ✨ Interests: coding, reading books, playing video games.
 
-- ⚡ Fun fact: **I think I am Funny**.
+- ⚡ Fun fact: **I love to take a nap when I feel anxity**.
 
 - 🧔🏻 Pronouns: He/Him.
 
@@ -45,11 +46,11 @@
 </p>
 
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prantoshb&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoshb&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kajal19-del&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal19-del&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 <h2>Weekly Coding Stats</h2>
 
 
-[![Prantosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoshB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Prantosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal19-del&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
